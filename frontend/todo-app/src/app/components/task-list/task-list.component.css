@@ -1,0 +1,25 @@
+
+
+.task-input {
+    background: #eaf1f7e0;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Stronger shadow */
+}
+
+.task-item {
+    background: #d6d6d6;
+}
+
+.task-title {
+    font-weight: bold;
+}
+
+.task-desc {
+    font-size: 0.9rem;
+    color: #333;
+}
+
+.btn-outline-dark {
+    border-radius: 10px;
+    padding: 4px 30px;
+ 
+}
